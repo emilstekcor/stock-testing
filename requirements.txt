@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+optuna
+plotly
+python-dateutil
+yfinance
+scikit-learn
+statsmodels
+sqlalchemy
