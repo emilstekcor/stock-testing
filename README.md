@@ -2,7 +2,7 @@
 just a python code I am working on to practice with
 
 
-# Kaiba's Hyperparameter Optimization Trading Strategy
+#Hyperparameter Optimization Trading Strategy
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/YOUR_USERNAME/YOUR_REPO_NAME)
 
